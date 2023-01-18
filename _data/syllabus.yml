@@ -1,0 +1,80 @@
+week-01:
+  title: 'Week 1'
+  segment: ['week', 1]
+  begin: 2023-01-16
+  end: 2023-01-20
+  theme: c1
+  items:
+    - syllabus
+    - lesson-01
+    - lesson-02
+    - excercise-01
+    - excercise-02
+
+week-02:
+  title: 'Week 2'
+  segment: ['week', 2]
+  begin: 2023-01-23
+  end: 2023-01-27
+  theme: c3
+  items:
+    - lesson-03
+    - lesson-04
+    - excercise-03
+    - excercise-04
+    - journal-01
+
+week-03:
+  title: 'Week 3'
+  segment: ['week', 3]
+  begin: 2023-01-30
+  end: 2023-02-03
+  theme: c5
+  items:
+    - lesson-05
+    - lesson-06
+    - excercise-05
+    - excercise-06
+    - midterm
+    - journal-02
+
+week-04:
+  title: 'Week 4'
+  segment: ['week', 4]
+  begin: 2023-02-06
+  end: 2023-02-10
+  theme: c7
+  items:
+    - lesson-07
+    - lesson-08
+    - excercise-07
+    - excercise-08
+    - journal-03
+
+week-05:
+  title: 'Week 5'
+  segment: ['week', 5]
+  begin: 2023-02-12
+  end: 2023-02-17
+  theme: c9
+  items:
+    - lesson-09
+    - lesson-10
+    - excercise-09
+    - excercise-10
+    - journal-04
+
+week-06:
+  title: 'Week 6'
+  segment: ['week', 6]
+  begin: 2023-02-20
+  end: 2023-02-24
+  theme: c2
+  items:
+    - lesson-11
+    - lesson-12
+    - excercise-11
+    - final
+    - paper-01
+    - paper-02
+    - journal-05

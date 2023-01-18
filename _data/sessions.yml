@@ -1,0 +1,339 @@
+syllabus:
+  segment: 'week-01'
+  title: 'PT-603 Communion With God'
+  icon: info
+  header: 'Syllabus'
+  type: 'Information'
+  url: 'syllabus'
+
+lesson-01:
+  segment: 'week-01'
+  title: "Introduction to the Four Keys to Hearing God’s Voice"
+  icon: web_stories
+  header: 'Lesson 1'
+  sequence: 1
+  url: 'lesson-01'
+  videos:
+    - https://drive.google.com/file/d/1kg-GxaXNhUDKbp1IKPmqq2Rdftl1VWat/preview
+
+lesson-02:
+  segment: 'week-01'
+  title: "A Cultural Backdrop for Hearing God’s Voice"
+  icon: web_stories
+  header: 'Lesson 2'
+  sequence: 2
+  url: 'lesson-02'
+  videos:
+    - https://drive.google.com/file/d/1v7fH5ceG8BfyekJ7ogoOOqTri4MLwbIU/preview
+
+lesson-03:
+  segment: 'week-02'
+  title: "Spiritual Intimacy – The Desire of God’s Heart"
+  icon: web_stories
+  header: 'Lesson 3'
+  sequence: 3
+  url: 'lesson-03'
+  videos:
+    - https://drive.google.com/file/d/1RsnghJdgEBvmIPD_QDrve5LWwZ_kHIn2/preview
+
+lesson-04:
+  segment: 'week-02'
+  title: "The Spoken Word: Tuning to Spontaneity"
+  icon: web_stories
+  header: 'Lesson 4'
+  sequence: 4
+  url: 'lesson-04'
+  videos:
+    - https://drive.google.com/file/d/1BamPUWfB_1rFH-rlQeFwnB7aTAU5b2NJ/preview
+
+lesson-05:
+  segment: 'week-03'
+  title: "Remove All Idols from Your Heart"
+  icon: web_stories
+  header: 'Lesson 5'
+  sequence: 5
+  url: 'lesson-05'
+  videos:
+    - https://drive.google.com/file/d/1PWaT4v1FgCamoy4dVGonlcHgeBMAObwM/preview
+
+lesson-06:
+  segment: 'week-03'
+  title: "Key #2: Become Still"
+  icon: web_stories
+  header: 'Lesson 6'
+  sequence: 6
+  url: 'lesson-06'
+  videos:
+    - https://drive.google.com/file/d/1sRcVZIOw-6s8GNC67SCYEVSBMApLzVOq/preview
+
+lesson-07:
+  segment: 'week-04'
+  title: "Key #3: Look for Vision as You Pray"
+  icon: web_stories
+  header: 'Lesson 7'
+  sequence: 7
+  url: 'lesson-07'
+  videos:
+    - https://drive.google.com/file/d/1VYDIomduh9VK-XjWPHoDuhFylUrAjK0b/preview
+
+lesson-08:
+  segment: 'week-04'
+  title: "How to Restore Your Visionary Capacity Dreams and Visions in Scripture"
+  icon: web_stories
+  header: 'Lesson 8'
+  sequence: 8
+  url: 'lesson-08'
+  videos:
+    - https://drive.google.com/file/d/1sS2LCSzwDM2YRHp0GPgt0lWR7qq75hj_/preview
+
+lesson-09:
+  segment: 'week-05'
+  title: "Key #4: Two-way Journaling"
+  icon: web_stories
+  header: 'Lesson 9'
+  sequence: 9
+  url: 'lesson-09'
+  videos:
+    - https://drive.google.com/file/d/1J7vxMbTZpN5s4m4waqc6Q3eOwcEmf7n2/preview
+
+lesson-10:
+  segment: 'week-05'
+  title: "Biblical Patterns for Approaching God"
+  icon: web_stories
+  header: 'Lesson 10'
+  sequence: 10
+  url: 'lesson-10'
+  videos:
+    - https://drive.google.com/file/d/1mSnxNYZ2gd5SE0lAOgu54VtRBVutuIsT/preview
+
+lesson-11:
+  segment: 'week-06'
+  title: "How Can I Know for Sure It Is God’s Voice?"
+  icon: web_stories
+  header: 'Lesson 11'
+  sequence: 11
+  url: 'lesson-11'
+  videos:
+    - https://drive.google.com/file/d/17jlN2M3WTWN5X7kn1R0mRiSYWEMKXE9Q/preview
+
+lesson-12:
+  segment: 'week-06'
+  title: "The Lord Speaks Back / Yadah – Sharing Love"
+  icon: web_stories
+  header: 'Lesson 12'
+  sequence: 12
+  url: 'lesson-12'
+
+excercise-01:
+  segment: 'week-01'
+  title: "Excercise 1"
+  icon: article
+  header: 'Excercise 1'
+  sequence: 1
+  type: 'Assignment'
+  url: 'excercise-01'
+  due: 2023-01-21
+  points: 10
+
+excercise-02:
+  segment: 'week-01'
+  title: "Excercise 2"
+  icon: article
+  header: 'Excercise 2'
+  sequence: 2
+  type: 'Assignment'
+  url: 'excercise-02'
+  due: 2023-01-21
+  points: 10
+
+excercise-03:
+  segment: 'week-02'
+  title: "Excercise 3"
+  icon: article
+  header: 'Excercise 3'
+  sequence: 3
+  type: 'Assignment'
+  url: 'excercise-03'
+  due: 2023-01-28
+  points: 10
+
+excercise-04:
+  segment: 'week-02'
+  title: "Excercise 4"
+  icon: article
+  header: 'Excercise 4'
+  sequence: 4
+  type: 'Assignment'
+  url: 'excercise-04'
+  due: 2023-01-28
+  points: 10
+
+excercise-05:
+  segment: 'week-03'
+  title: "Excercise 5"
+  icon: article
+  header: 'Excercise 5'
+  sequence: 5
+  type: 'Assignment'
+  url: 'excercise-05'
+  due: 2023-02-04
+  points: 10
+
+excercise-06:
+  segment: 'week-03'
+  title: "Excercise 6"
+  icon: article
+  header: 'Excercise 6'
+  sequence: 6
+  type: 'Assignment'
+  url: 'excercise-06'
+  due: 2023-02-04
+  points: 10
+
+excercise-07:
+  segment: 'week-04'
+  title: "Excercise 7"
+  icon: article
+  header: 'Excercise 7'
+  sequence: 7
+  type: 'Assignment'
+  url: 'excercise-07'
+  due: 2023-02-11
+  points: 10
+
+excercise-08:
+  segment: 'week-04'
+  title: "Excercise 8"
+  icon: article
+  header: 'Excercise 8'
+  sequence: 8
+  type: 'Assignment'
+  url: 'excercise-08'
+  due: 2023-02-11
+  points: 10
+
+excercise-09:
+  segment: 'week-05'
+  title: "Excercise 9"
+  icon: article
+  header: 'Excercise 9'
+  sequence: 9
+  type: 'Assignment'
+  url: 'excercise-09'
+  due: 2023-02-18
+  points: 10
+
+excercise-10:
+  segment: 'week-05'
+  title: "Excercise 10"
+  icon: article
+  header: 'Excercise 10'
+  sequence: 10
+  type: 'Assignment'
+  url: 'excercise-10'
+  due: 2023-02-18
+  points: 10
+
+excercise-11:
+  segment: 'week-06'
+  title: "Excercise 11"
+  icon: article
+  header: 'Excercise 11'
+  sequence: 11
+  type: 'Assignment'
+  url: 'excercise-11'
+  due: 2023-02-25
+  points: 10
+
+journal-01:
+  segment: 'week-02'
+  title: "Journal 1"
+  icon: notes
+  header: 'Journal 1'
+  type: 'Assignment'
+  url: 'journal-01'
+  due: 2023-01-22
+  points: 20
+
+journal-02:
+  segment: 'week-03'
+  title: "Journal 2"
+  icon: notes
+  header: 'Journal 2'
+  type: 'Assignment'
+  url: 'journal-02'
+  due: 2023-01-29
+  points: 20
+
+journal-03:
+  segment: 'week-04'
+  title: "Journal 3"
+  icon: notes
+  header: 'Journal 3'
+  type: 'Assignment'
+  url: 'journal-03'
+  due: 2023-02-05
+  points: 20
+
+journal-04:
+  segment: 'week-05'
+  title: "Journal 4"
+  icon: notes
+  header: 'Journal 4'
+  type: 'Assignment'
+  url: 'journal-04'
+  due: 2023-02-15
+  points: 20
+
+journal-05:
+  segment: 'week-06'
+  title: "Journal 5"
+  icon: notes
+  header: 'Journal 5'
+  type: 'Assignment'
+  url: 'journal-05'
+  due: 2023-02-19
+  points: 20
+
+paper-01:
+  segment: 'week-06'
+  title: "Reflection Paper"
+  icon: notes
+  header: 'Paper 1'
+  sequence: 1
+  type: 'Paper'
+  url: 'paper-01'
+  due: 2023-02-24
+  points: 150
+
+paper-02:
+  segment: 'week-06'
+  title: "Paper on 'Am I Being Deceived?'"
+  icon: notes
+  header: 'Paper 2'
+  sequence: 2
+  type: 'Paper'
+  url: 'paper-02'
+  due: 2023-02-24
+  points: 150
+
+midterm:
+  segment: 'week-03'
+  title: 'Midterm'
+  icon: quiz
+  header: 'Exam'
+  type: 'Exam'
+  url: 'midterm'
+  due: 2023-02-04
+  points: 140
+
+final:
+  segment: 'week-06'
+  title: 'Final'
+  icon: quiz
+  header: 'Exam'
+  type: 'Exam'
+  url: 'Final'
+  due: 2023-02-24
+  points: 230
+
