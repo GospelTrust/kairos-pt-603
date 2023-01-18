@@ -33,6 +33,53 @@
 
 - You will state the definitions of logos and rhema.
 
+----
+
+### [4 Keys to Hearing God’s Voice] Notes
+
+- Not **just** doctrine
+
+  - John 5:39-40: You search the Scriptures...and unwilling to come to Me.
+    - <samp>Where do we "hear" these words that Jesus "spoke" today?</samp>
+  - "Intellectual exercise does not profit our spirit at all"
+  - Ex 15:26: He speaks directory to us.
+    - "So listening to God's voice came **before** the Law was given"
+  - Faith is more important than the Law
+    - <samp>Does the "Law" here means the bible?</samp>
+    - "Hear him speak is more important than follwing the law, the Torah, the Scriptures"
+
+- Charles Finney: Three Classes of Christians
+  - Saved class: Love the Scriptures
+  - Laying too much stress in teaching and believing the facts and doctrines of the Gospel
+  - Stopping short of trusting the personal Christ
+
+- "Hearing god's voice cannot be anything more difficult than an 8-year-old can do!"
+
+- 4 Keys to hearing God's voice:
+  - Stillness: Quiet yourself so you can hear God's voice
+  - Vision: Look for vision as you pray.
+  - Spontaneity: Recognize God's voice as spontaneous thoughts that light upon your mind.
+  - Journaling: Write down that flow of thoughts and pictures.
+
+- "Worked in every culture and every circumstance and every age group"
+
+
+> I will **stand on my guard post** and station myself on the rampart; and I will **keep watch to see** what He will speak to me, and how I may reply when I am reproved. Then the LORD answered me and said, "**Record the vision** and inscribe it on tablets, that the one who reads it may run. For the vision is yet for the appointed time; it hastens toward the goal and it will not fail though it tarries, wait for it; for it will certainly come, it will not delay."
+
+- 4 Keys: Habakkuk 2:1-3
+  1. I will stand on my guard post (be still)
+  2. I will keep watch to see (fix your eyes on Jesus)
+  3. He will speak to me (tune to spontaneity)
+  4. Then the Lord answered me and said, "Record the vision." (Write the flow of thoughts and pictures that light upon your heart and mind)
+
+- Reflections on Learning to Hear God's Voice
+  - Christ often speaks back to us using Scripture (_rhema_ and _Logos_)
+  - Look to experiences as experiments, grow in confidence and saw positive results
+  - React to God's ideas through analytical thoughts and questions. Distinction between Christ's spontaneous thoughts and my analytical thoughts
+  - His voice lines up with inner thoughts (you already have) don't doubt that it is His voice
+  - God doesn't want anything more than you have given
+  - When prayers are not answered, ask Him why
+
 [4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-ebook
 [Dialogue with God]: https://www.cwgministries.org/store/dialogue-god-ebook
 [LEARN 4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-seminar-workbook-and-audiovideo-guide-ebook
