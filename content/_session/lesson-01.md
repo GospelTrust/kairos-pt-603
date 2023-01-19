@@ -27,11 +27,30 @@
 
 - You will quote Habakkuk 2:1, 2.
 
-  > I will stand on my guard post and station myself on the rampart; And I will keep watch to see what He will speak to me, and how I may reply when I am reproved. Then the Lord answered me and said, “Record the vision and inscribe it on tablets, that the one who reads it may run.”
+  > <samp>I will stand on my guard post and station myself on the rampart;</samp>
+  > <samp>And I will keep watch to see what He will speak to me,</samp>
+  > <samp>and how I may reply when I am reproved.</samp>
+  > <samp>Then the Lord answered me and said,</samp>
+  > <samp>“Record the vision and inscribe it on tablets,</samp>
+  > <samp>that the one who reads it may run.”</samp>
 
 - You will briefly state the four keys to hearing God’s voice.
 
+  <samp>Stillness, Vision, Spontaneity, Journaling</samp>
+
 - You will state the definitions of logos and rhema.
+
+  <samp><b>logos</b> (the content of the message). <b>rhema</b> (how the message was received).</samp>
+
+- 5 Safeguards
+
+  1. <samp>Born-again Christian</samp>
+  2. <samp>Believe the Bible is God's inerrant word</samp>
+  3. <samp>Demonstrated love and respect for God by knowing his Word</samp>
+  4. <samp>Attitude of submission to what God shown you from the bible</samp>
+  5. <samp>2 or 3 spiritual advisors</samp>
+
+- Memorize <samp>Hearing God's voice is as simple as quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing!</samp>
 
 ----
 
@@ -64,7 +83,11 @@
 - "Worked in every culture and every circumstance and every age group"
 
 
-> I will **stand on my guard post** and station myself on the rampart; and I will **keep watch to see** what He will speak to me, and how I may reply when I am reproved. Then the LORD answered me and said, "**Record the vision** and inscribe it on tablets, that the one who reads it may run. For the vision is yet for the appointed time; it hastens toward the goal and it will not fail though it tarries, wait for it; for it will certainly come, it will not delay."
+----
+
+> I will <u>stand on my guard post</u> and station myself on the rampart; and I will <u>keep watch to see</u> what <u>He will speak to me</u>, and how I may reply when I am reproved. Then the LORD answered me and said, "<u>Record the vision</u> and inscribe it on tablets, that the one who reads it may run. For the vision is yet for the appointed time; it hastens toward the goal and it will not fail though it tarries, wait for it; for it will certainly come, it will not delay."
+
+----
 
 - 4 Keys: Habakkuk 2:1-3
   1. I will stand on my guard post (be still)
@@ -79,6 +102,8 @@
   - His voice lines up with inner thoughts (you already have) don't doubt that it is His voice
   - God doesn't want anything more than you have given
   - When prayers are not answered, ask Him why
+
+----
 
 [4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-ebook
 [Dialogue with God]: https://www.cwgministries.org/store/dialogue-god-ebook
