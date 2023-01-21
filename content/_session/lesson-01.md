@@ -1,7 +1,7 @@
 ---
 ---
 
-## Assignments to be completed:
+## Assignments to be completed
 
 - [4 Keys to Hearing God’s Voice]
   - Introduction
@@ -19,11 +19,11 @@
 
 - Each day this week, read the corresponding devotional for that day from Talking with Jesus. Meditate on the words of Jesus, both Logos, and rhema. Take the time to see if there is anything else He wants to say to you specifically from the passages.
 
-## Subjects to be explored:
+## Subjects to be explored
 
 - Introduction to the Four Keys to Hearing God’s Voice
 
-## Related objectives:
+## Related objectives
 
 - You will quote Habakkuk 2:1, 2.
 
@@ -52,9 +52,9 @@
 
 - Memorize <samp>Hearing God's voice is as simple as quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing!</samp>
 
-----
+<hr class='section' />
 
-### [4 Keys to Hearing God’s Voice] Notes
+## Chapter 1: How I Discovered the Four Keys
 
 - Not **just** doctrine
 
@@ -103,7 +103,7 @@
   - God doesn't want anything more than you have given
   - When prayers are not answered, ask Him why
 
-----
+<hr class='logo' />
 
 [4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-ebook
 [Dialogue with God]: https://www.cwgministries.org/store/dialogue-god-ebook
