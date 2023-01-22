@@ -42,13 +42,12 @@
 
   <samp><b>logos</b> (the content of the message). <b>rhema</b> (how the message was received).</samp>
 
-- 5 Safeguards
+- 5 Safeguards in [Dialogue with God]
 
-  1. <samp>Born-again Christian</samp>
-  2. <samp>Believe the Bible is God's inerrant word</samp>
-  3. <samp>Demonstrated love and respect for God by knowing his Word</samp>
-  4. <samp>Attitude of submission to what God shown you from the bible</samp>
-  5. <samp>2 or 3 spiritual advisors</samp>
+  1. <samp>Knowledge of the Scriptures.</samp>
+  2. <samp>Relationship with the body of Christ.</samp>
+  3. <samp>A spirit of humility.</samp>
+  4. <samp>Testing the contents of the words received.</samp>
 
 - Memorize <samp>Hearing God's voice is as simple as quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing!</samp>
 

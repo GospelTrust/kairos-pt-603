@@ -126,13 +126,16 @@ lesson-12:
 
 journal-01:
   segment: 'week-02'
-  title: "Journal 1"
+  title: "When You Awake"
   icon: notes
   header: 'Journal 1'
   type: 'Assignment'
   url: 'journal-01'
   due: 2023-01-22
   points: 20
+  images:
+    - src: https://cdn.midjourney.com/46149cbf-1599-442a-90aa-7c55e7bf5eea/grid_0.png
+      desc: Mountain of Delight
 
 journal-02:
   segment: 'week-03'
@@ -143,6 +146,9 @@ journal-02:
   url: 'journal-02'
   due: 2023-01-29
   points: 20
+  images:
+    - src: https://cdn.midjourney.com/f29cdfb1-c836-4c08-b5fc-3e08d36230fc/grid_0.png
+      desc: Center of God's Design
 
 journal-03:
   segment: 'week-04'
@@ -153,6 +159,9 @@ journal-03:
   url: 'journal-03'
   due: 2023-02-05
   points: 20
+  images:
+    - src: https://cdn.midjourney.com/0ca41ff9-c442-43cf-a0d7-3c26f5e47cfd/grid_0.png
+      desc: The Sheep of His Pasture
 
 journal-04:
   segment: 'week-05'
@@ -163,6 +172,9 @@ journal-04:
   url: 'journal-04'
   due: 2023-02-15
   points: 20
+  images:
+    - src: https://cdn.midjourney.com/62670923-803f-417e-9051-a027545e827d/grid_0.png
+      desc: In the Midst of the Storm
 
 journal-05:
   segment: 'week-06'
@@ -173,6 +185,9 @@ journal-05:
   url: 'journal-05'
   due: 2023-02-19
   points: 20
+  images:
+    - src: https://cdn.midjourney.com/762dd1b5-1b14-41d6-b905-8c9f849d85c5/grid_0.png
+      desc: Setting Free
 
 paper-01:
   segment: 'week-06'
@@ -212,7 +227,7 @@ final:
   icon: quiz
   header: 'Exam'
   type: 'Exam'
-  url: 'Final'
+  url: 'final'
   due: 2023-02-24
   points: 230
 
