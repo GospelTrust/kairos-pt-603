@@ -226,7 +226,7 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 
 1. Complete the journaling exercise found at the end of Chapter 2 of 4 Keys to Hearing God’s Voice.
 
-   > My ways are not yours, and neither are my thoughts. Trust in the finished work of my beloved Son on the cross for you. There are things too wonderful for you to understand and beyond your ability to comprehend. Walk with me, and I will show you marvelous things that have not entered your mind. Come, son, into my presence.
+   <samp>My ways are not yours, and neither are my thoughts. Trust in the finished work of my beloved Son on the cross for you. There are things too wonderful for you to understand and beyond your ability to comprehend. Walk with me, and I will show you marvelous things that have not entered your mind. Come, son, into my presence.</samp>
 
 2. Contrast the beliefs of the New Age with the beliefs of orthodox Christianity.
 
@@ -247,17 +247,17 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 
    2. Evaluate your life in light of these guidelines. Are you ready to explore the world of the Spirit?
 
-      I meet these qualifications and have been exploring the Spiritual landscape.
+      <samp>I meet these qualifications and have been exploring the Spiritual landscape.</samp>
 
 4. Proverbs 11:14
 
    1. Write out Proverbs 11:14 NASU.
 
-      Where there is no guidance, the people fall, but in abundance of counselors there is victory.
+      <samp>Where there is no guidance, the people fall, but in abundance of counselors there is victory.</samp>
 
    2. Discuss why this verse was chosen for you to memorize in this lesson, at the beginning of your course on hearing God’s voice.
 
-      It is important to have godly people in one's life to check if what you're hearing is actually from God.
+      <samp>It is important to have godly people in one's life to check if what you're hearing is actually from God.</samp>
 
 5. State the six qualities of a good spiritual advisor.
 
@@ -271,35 +271,35 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 6. Submission
    1. Memorize the definition of submission given by the author on page 44: “Submission is an openness to the Spirit-led counsel and correction of several others, while keeping a sense of personal responsibility for our own discernment of God’s voice within us.”
 
-      Submission is an openness to the Spirit-led counsel and correction of several others while keeping a sense of personal responsibility for our own discernment of God's voice within us.
+      <samp>Submission is an openness to the Spirit-led counsel and correction of several others while keeping a sense of personal responsibility for our own discernment of God's voice within us.</samp>
 
    2. Does this definition adjust your thinking concerning submission? Do you disagree with it in any way? If so, support your position. If you disagree with Virkler’s definition, state the meaning of submission that you would be willing to apply both to those to whom you submit and to those who submit to you.
 
-      No, this definition agrees with my sentiments; I don't have any disagreement.
+      <samp>No, this definition agrees with my sentiments; I don't have any disagreement.</samp>
 
    3. Would embracing this definition change the dynamics of any of your personal relationships? How?
 
-      Embracing this definition does not change any dynamic of my current relationships since it is a subset of my working definition of submission that spans cultural and generational contexts.
+      <samp>Embracing this definition does not change any dynamic of my current relationships since it is a subset of my working definition of submission that spans cultural and generational contexts.</samp>
 
 7. Other than your spouse, why would it be wise for your advisors to be of the same gender you are?
 
-   So you can speak frankly about things that are too sensitive and might be inappropriate for the opposite sex to hear.
+   <samp>So you can speak frankly about things that are too sensitive and might be inappropriate for the opposite sex to hear.</samp>
 
 8. What might prevent us from recognizing or embracing the counselors God has given us?
 
-   Lack of trust is a big part of accepting counselors.
+   <samp>Lack of trust is a big part of accepting counselors.</samp>
 
-   The other factor is cultural bias (in my tradition, one does not choose their counselors, it's the other way around).
+   <samp>The other factor is cultural bias (in my tradition, one does not choose their counselors, it's the other way around).</samp>
 
 9. During your journaling times this week, ask the Lord who He has given to you as your three spiritual advisors. Write them down. Approach them and ask if you can share your journaling with them. Get their agreement to this. Begin sharing (reading or emailing) your journaling with them. (Don’t paraphrase it; read it or email it.) Share your journaling with them at least 3-5 times over the next three weeks. Get confirmation that you are on the right track! Grow in faith! If you skip doing this, this course will not work for you! You must learn to use spiritual advisors!
 
-   Will do! Two have agreed to receive communications from me on regarding my journal entries for this class.
+   <samp>Will do! Two have agreed to receive communications from me on regarding my journal entries for this class.</samp>
 
 10. Mysticism
 
     1. State the author’s definition of “mysticism.” (p. 59)
 
-       A belief in direct spirit encounter with God
+       <samp>A belief in direct spirit encounter with God</samp>
 
     2. Look up the word in a dictionary. Which definitions of “mysticism” would be an acceptable part of Christian theology?
 
@@ -312,29 +312,28 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 
 11. Discuss how your worldview up to this time has been either more of “Rationalism” or “Rationalism/Mysticism Combined” (p. 58, 59), and your Christianity more “Rational” or “Spiritual”. Discuss both your belief and your experience.
 
-    My worldview is not fixed nor polarized as an either-or dichotomy but contingent upon the groups and people I interact with. Academically, I'm a rationalist. When I work in a technical environment, I am analytical, detail-oriented, and logical. But when I work with people (particularly those who are not Westerners), I'm relational and flexible. I try to understand the context rather than the information to be conveyed. If I need to define terminology, it would be "Rationalism/Mysticism Combined." I believe that the incomprehensibility of the Divine is hidden from our natural senses but can be communicated through the Holy Spirit (from the Eastern Orthodox tradition) through worship within the Body.
+    <samp>My worldview is not fixed nor polarized as an either-or dichotomy but contingent upon the groups and people I interact with. Academically, I'm a rationalist. When I work in a technical environment, I am analytical, detail-oriented, and logical. But when I work with people (particularly those who are not Westerners), I'm relational and flexible. I try to understand the context rather than the information to be conveyed. If I need to define terminology, it would be "Rationalism/Mysticism Combined." I believe that the incomprehensibility of the Divine is hidden from our natural senses but can be communicated through the Holy Spirit (from the Eastern Orthodox tradition) through worship within the Body.</samp>
 
 12. Prayerfully read and meditate on I Corinthians 1:18–2:16, asking God to grant you understanding and revelation concerning the verses. Write out your thoughts.
 
-    > Paul believes the power of the cross is inherent in the faithfulness of preaching the cross of Christ without embarking on intellectual debates (2:4-5). However, it does not mean there is no wisdom in the gospel, rather the wisdom is a mystery revealed through the Holy Spirit (2:10-11). God makes known this mystery to believers, not through the world's wisdom, but through His Spirit (2:12-14). The born again Christians have the mind of Christ to perceive an judge spiritual things (2:16).
+    <samp>Paul believes the power of the cross is inherent in the faithfulness of preaching the cross of Christ without embarking on intellectual debates (2:4-5). However, it does not mean there is no wisdom in the gospel, rather the wisdom is a mystery revealed through the Holy Spirit (2:10-11). God makes known this mystery to believers, not through the world's wisdom, but through His Spirit (2:12-14). The born again Christians have the mind of Christ to perceive an judge spiritual things (2:16).</samp>
 
 13. In your own words, discuss the significance of left- and right-brain preferences in spiritual pursuits.
 
-    > According to Dr. Virkler, people are inclined to be either left-brain or right-brain dominant. The left hemispheric dominant person will be more analytical, whereas the counterpart tends to be driven by intuition and vision. Based on this hypothesis, the right-dominant brain is less likely to be subjected to rationalism and, thus, more open to receiving visions and revelations in their pursuit of hearing from God.
+    <samp>According to Dr. Virkler, people are inclined to be either left-brain or right-brain dominant. The left hemispheric dominant person will be more analytical, whereas the counterpart tends to be driven by intuition and vision. Based on this hypothesis, the right-dominant brain is less likely to be subjected to rationalism and, thus, more open to receiving visions and revelations in their pursuit of hearing from God.</samp>
 
 14. [Brain Preference Indicator Test](https://docs.google.com/spreadsheets/d/1Pd3K3_Rrfev5yFewoF06Q9qdh8AgjPy6Nuulg-0_Pwg/edit?usp=sharing)
 
     1. Complete the Brain Preference Indicator Test at www.CWGMinistries.org/brain or another one of your choosing. Record your score here.
 
-       `5.320755`
+       <samp>My BPI Score is: 5.32</samp>
 
     2. What does your score say about you? Would you say this is an accurate indicator of the way you think and process life?
 
-       According to the number, I use both of my hemispheres equally (leaning slightly to the right). Some of the questions do not reflect my reality. For example, question #1. Depending on what kind of problem I'm solving. If it is a technical problem or something I already have expertise in, I start working on a solution. I might research a new problem I have no expertise. If it is a relational problem, it depends on the person; I seek to understand their cultural background and context. If it is a spiritual problem, I pray, read, and consult with others.
-I changed significantly over the years, and my inclinations and proclivities have shifted based on situations and people I encountered.
+       <samp>According to the number, I use both of my hemispheres equally (leaning slightly to the right). Some of the questions do not reflect my reality. For example, question #1. Depending on what kind of problem I'm solving. If it is a technical problem or something I already have expertise in, I start working on a solution. I might research a new problem I have no expertise. If it is a relational problem, it depends on the person; I seek to understand their cultural background and context. If it is a spiritual problem, I pray, read, and consult with others.I changed significantly over the years, and my inclinations and proclivities have shifted based on situations and people I encountered.</samp>
 
     3. Based on what you learned in this lesson about brain preference, what does your score indicate that you will need to work on in bringing balance into your spiritual walk?
 
-       I learned that things are not as clearly delineated as I want them to be. In every situation, the need to seek the Lord and understand the context is paramount. I changed significantly over the years, and my inclinations and proclivities have shifted based on what I've learned, my experiences, and the situations and people I encountered in life.
+       <samp>I learned that things are not as clearly delineated as I want them to be. In every situation, the need to seek the Lord and understand the context is paramount. I changed significantly over the years, and my inclinations and proclivities have shifted based on what I've learned, my experiences, and the situations and people I encountered in life.</samp>
 
 <hr class='logo' />
