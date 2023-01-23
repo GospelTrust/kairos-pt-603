@@ -112,10 +112,8 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
   > Obey (Peitho &mdash; allow yourself ot be persuaded by) your leaders, submit to them; for they watch over your soul, as those who will give an account. Let them do this with joy and not grief, for this would be unprofitable for you.
   > (Heb 13:17)
 
-  > <br/>
   > &hellip; But in the multitude of counselors there is safety (Prov 11:14 KJV).
 
-  > <br/>
   > Every fact is to be confirmed by the testimony of two or three witnesses (2 Cor 13:1)
 
   - What to look for in a spiritual counselor
