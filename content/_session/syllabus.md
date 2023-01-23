@@ -25,10 +25,10 @@ greater faith, hope, and joy.
 A student who successfully completes this course will be able to:
 1. Quote and memorize selected bible verses.
 2. State the four keys to hearing God’s voice.
-3. Discuss the differences between left- and right-hemi- sphere brain functions, and how this information relates to your spiritual life.
+3. Discuss the differences between left- and right-hemisphere brain functions, and how this information relates to your spiritual life.
 4. Discuss the qualities of a good counselor or advisor.
 5. Define journaling, and discuss its value in recognizing the voice of God.
-6. Define the following terms: 3 Submission, 3 Mysticism, 3 Two-way journaling.
+6. Define the following terms: Submission, Mysticism, Two-way journaling.
 7. List five important safeguards for hearing God’s voice.
 8. List five major differences between the New Age and Christianity, and New Age spirit encounter and Christian Spirit encounter.
 9. Discuss how the voice and vision of God are experienced and recognized.
@@ -131,7 +131,7 @@ Discussion and participation during class is a factor that counts toward the cou
 
 - You are required to earn at least 85% on the [Midterm] (due week 3) and the Final Test (due week 6). The Course Objectives are the key to success on the tests.
 
-- Submit a [Final] Reflection paper (due week 6) discussing how your life has been affected as a result of your encounter with God through this course.
+- Submit a [Final Reflection paper][Paper 1] (due week 6) discussing how your life has been affected as a result of your encounter with God through this course.
   - What changes has He brought in your understanding, attitudes, and behavior?
   - Who are the people He has placed as counselors in your life?
   - What are the methods which are most effective in bringing you to stillness?
@@ -142,7 +142,7 @@ Discussion and participation during class is a factor that counts toward the cou
 
 - [Am I Being Deceived?] – Mark and Patti Virkler
 
-  Read the entire book and submit a paper of 4 pages typed (no larger than 12-point font) and double-spaced (or 2 pages single-spaced) in response to this book. Draw together your observations, reactions, and experiments into a cohesive report. This paper is to be submitted to your instructor with the Final Test (Due Week 6).
+  Read the entire book and submit a [paper][Paper 2] of 4 pages typed (no larger than 12-point font) and double-spaced (or 2 pages single-spaced) in response to this book. Draw together your observations, reactions, and experiments into a cohesive report. This paper is to be submitted to your instructor with the Final Test (Due Week 6).
 
   Discuss how your mind has been opened and your thoughts expanded through your meditation upon this book. What new truths have you discovered?
 
@@ -176,10 +176,10 @@ Material | Percentage | Points
 Attendance and Participation | 12% | 120 points (20 points per class)
 Journal Assignments | 10% | 100 points (20 points per journal assignment)
 Lesson Exercises | 11% | 110 points (10 points per Exercise)
-Midterm Exam | 14% | 140 points
-Final Reflection Paper | 15% | 150 points
-Final Paper Am I Being Deceived? | 15% | 150 points
-Final Exam: | 23% | 230 points
+[Midterm Exam][Midterm] | 14% | 140 points
+[Final Reflection Paper][Paper 1] | 15% | 150 points
+[Final Paper][Paper 2] [Am I Being Deceived?] | 15% | 150 points
+[Final Exam][Final] | 23% | 230 points
 Total Points | | 1000
 
 #### Penalty for Late Work:
@@ -192,9 +192,9 @@ There will be a 10% deduction of the final score per week for all late work.
 
 ####  Nature and Date of the Final Exam / Final Assignment:
 
-- Final Exam (Week 6)
-- Final Reflection Paper (Due Week 6)
-- Final Paper on Am I Being Deceived? (Due on Week 6)
+- [Final Exam][Final] (Week 6)
+- [Final Reflection Paper][Paper 1] (Due Week 6)
+- [Final Paper][Paper 2] on [Am I Being Deceived?] (Due on Week 6)
 
 <hr class='section' />
 
@@ -207,3 +207,8 @@ The format of this course is highly accelerated. We will be covering two lessons
 2. Here is what I have a question on...
 
 <hr class='logo' />
+
+[Final]: {% link _session/final.md %}
+[Midterm]: {% link _session/midterm.md %}
+[Paper 1]: {% link _session/paper-01.md %}
+[Paper 2]: {% link _session/paper-02.md %}
