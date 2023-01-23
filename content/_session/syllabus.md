@@ -82,13 +82,6 @@ Instructions for Acquiring Reading Materials (Please purchase the ebooks/downloa
 5. [Am I Being Deceived?] eBook by Mark and Patti Virkler
 6. [Sea of Galilee Prayer Encounter] Free once you fill in the form
 
-[4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-ebook
-[Dialogue with God]: https://www.cwgministries.org/store/dialogue-god-ebook
-[LEARN 4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-seminar-workbook-and-audiovideo-guide-ebook
-[Talking with Jesus]: https://www.cwgministries.org/store/talking-jesus-ebook
-[Am I Being Deceived?]: https://www.cwgministries.org/store/am-i-being-deceived-ebook
-[Sea of Galilee Prayer Encounter]: https://go.cwgministries.org/galilee-cwg
-
 <hr class='section' />
 
 <sub>Section V</sub>
@@ -212,3 +205,11 @@ The format of this course is highly accelerated. We will be covering two lessons
 [Midterm]: {% link _session/midterm.md %}
 [Paper 1]: {% link _session/paper-01.md %}
 [Paper 2]: {% link _session/paper-02.md %}
+
+[4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-ebook
+[Dialogue with God]: https://www.cwgministries.org/store/dialogue-god-ebook
+[LEARN 4 Keys to Hearing God’s Voice]: https://www.cwgministries.org/store/4-keys-hearing-gods-voice-seminar-workbook-and-audiovideo-guide-ebook
+[Talking with Jesus]: https://www.cwgministries.org/store/talking-jesus-ebook
+[Am I Being Deceived?]: https://www.cwgministries.org/store/am-i-being-deceived-ebook
+[Sea of Galilee Prayer Encounter]: https://go.cwgministries.org/galilee-cwg
+
