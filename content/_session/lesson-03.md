@@ -71,8 +71,7 @@
   - Mary leave work and sits
   - Martha works
 
-- Phil 3:10-11
-  > That I might know (ginosko) Him, and the power of His [inner] resurrection and fellowship of His sufferings, being confromed to His death; in order that I may attain to the [outer] resurrection from the dead
+- Phil 3:10-11med to His death; in order that I may attain to the [outer] resurrection from the dead
 
   - Paul's yearning to be intimate with Jesus
 
@@ -96,7 +95,7 @@
 - Learn to seek the Lord for Himself alone and not for the things He can give us
 - See His power flowing out from us, touching hearts, renewing life, strength, working miracles
 
-#### Come WHolly Unto Me
+#### Come Wholly Unto Me
 
 5 Aspects of wholeheartedness that God requires in our approach to Him:
 
@@ -155,3 +154,50 @@
 - Ask Him the question that is on your heart
 - Don't test it as you receive it
 - Test it &mdash; share it with your spiritual advisors &mdash; after the flow is finished
+
+<hr class='section' />
+
+1. Complete the Personal Application: A Two-way Love Letter on page 84 of 4 Keys to Hearing God’s Voice.
+
+   > This is why I love you so much...
+
+   > <samp>You have been my help and strength, the tower of my refuge, and my deliverer. You continued to shine even when I only wanted to hide in the shadow. You draw me with your tender mercies when I'm in despair of my soul.</samp>
+
+   > <samp>My mercies are new every morning. I continue to be faithful even when you're not and unable to. My promises are eternally sealed in the finished work of my Son on the cross for you. With lovingkindness, I have drawn you to me to show you more extraordinary things you'll find as you search the depths of my love.</samp>
+
+2. On another day this week, for your journaling time complete the Personal Application at the end of Chapter 3 on page 92 of 4 Keys to Hearing God’s Voice.
+
+  > Lord, what do You want to say to me?
+
+  > <samp>I want to gather you into my arms and embrace you as a hen gathering her chicks under her wings. Don't be afraid. Come near me. I know your wayward heart and understand your soul's infirmities. Come near, for I am meek and lowly; you will find rest for your turbulent soul.</samp>
+
+3. State five aspects of the wholeheartedness that God requires in our approach to Him, and discuss what they would require in your personal life.
+
+  1. <samp>Make Me your greatest treasure so I can give Myself to you</samp>
+  2. <samp>Search for Me with your whole heart so I can reveal Myself to you</samp>
+  3. <samp>Trust Me with your whole heart so I can guide your steps</samp>
+  4. <samp>Praise Me with your whole heart so I can gift you with My presence</samp>
+  5. <samp>Return to Me with your whole heart so I can be compassionate and bless you</samp>
+
+  <samp>I must learn to recognize God's voice and seeking to spend intimate time with Him. It would require me to offer all my senses and moving out of my rational mind into the Holy Spirit's flow. To attain to these requirements it would require that I trust in the sincerity of my heart.</samp>
+
+4. Journaling
+
+   1. Write out John 17:3.
+      > <samp>And this is eternal life, that they might know thee, the only true God, and Jesus Christ whom thou hast sent</samp>
+
+   2. Discuss what it means and ask the Lord through journaling how He wants to apply it to your life.
+
+      <samp>It means to know (ginosko) or have an intimate relationship with God and communicate with him as a Lover in prayer (yada)</samp>
+
+5. Law & Voice
+
+   1. Discuss Virkler’s assertion that if one does not hear God’s voice, then their primary recourse is to live according to biblical laws (Gal. 5:18).
+
+      <samp>Hearing God's voice comes with fire that requires putting to death the flesh desires and becoming alive in the Spirit. Those who turn down God's offer of a relationship revert to a life governed by the laws, commandments, statutes, and judgments.</samp>
+
+   2. Have you tried living according to biblical laws? What has been the fruit in your life (Rom. 8:1, 2)?
+
+      <samp>I have not tried to live by the laws; there are so many of them, and it is not prudent to take on that task. However, besides understanding God's redemptive work through Christ, because of the flesh's weakness, my heart's propensity is to go as far as possible on my own and then call God for help. The fruit has always been the foundation of peace in knowing Jesus loves me. My soul is purified by His essence every time I come near Him.</samp>
+
+<hr class='logo' />
