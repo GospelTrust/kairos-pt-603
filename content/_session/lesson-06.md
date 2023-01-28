@@ -23,7 +23,9 @@
 - You will quote the expanded version of Psalm 46:10.
 
   > <samp>Be still,</samp>
-  <samp>let go,</samp><samp>cease striving,<samp>relax,<samp>
+  <samp>let go,</samp>
+  <samp>cease striving,</samp>
+  <samp>relax,</samp>
   <samp>and know that I am God.</samp>
 
 - You will discuss how the voice of God is experienced and recognized.
