@@ -173,11 +173,11 @@
 
 3. State five aspects of the wholeheartedness that God requires in our approach to Him, and discuss what they would require in your personal life.
 
-  1. <samp>Make Me your greatest treasure so I can give Myself to you</samp>
-  2. <samp>Search for Me with your whole heart so I can reveal Myself to you</samp>
-  3. <samp>Trust Me with your whole heart so I can guide your steps</samp>
-  4. <samp>Praise Me with your whole heart so I can gift you with My presence</samp>
-  5. <samp>Return to Me with your whole heart so I can be compassionate and bless you</samp>
+   1. <samp>Make Me your greatest treasure so I can give Myself to you</samp>
+   2. <samp>Search for Me with your whole heart so I can reveal Myself to you</samp>
+   3. <samp>Trust Me with your whole heart so I can guide your steps</samp>
+   4. <samp>Praise Me with your whole heart so I can gift you with My presence</samp>
+   5. <samp>Return to Me with your whole heart so I can be compassionate and bless you</samp>
 
   <samp>I must learn to recognize God's voice and seeking to spend intimate time with Him. It would require me to offer all my senses and moving out of my rational mind into the Holy Spirit's flow. To attain to these requirements it would require that I trust in the sincerity of my heart.</samp>
 
