@@ -139,7 +139,7 @@ journal-01:
 
 journal-02:
   segment: 'week-03'
-  title: "Journal 2"
+  title: "Praises of A Desolate Heart"
   icon: notes
   header: 'Journal 2'
   type: 'Assignment'
@@ -152,7 +152,7 @@ journal-02:
 
 journal-03:
   segment: 'week-04'
-  title: "Journal 3"
+  title: "The Shepherd Is Here"
   icon: notes
   header: 'Journal 3'
   type: 'Assignment'
@@ -165,7 +165,7 @@ journal-03:
 
 journal-04:
   segment: 'week-05'
-  title: "Journal 4"
+  title: "Calm Through the Storm"
   icon: notes
   header: 'Journal 4'
   type: 'Assignment'
@@ -178,7 +178,7 @@ journal-04:
 
 journal-05:
   segment: 'week-06'
-  title: "Journal 5"
+  title: "I Am Free"
   icon: notes
   header: 'Journal 5'
   type: 'Assignment'
@@ -230,4 +230,3 @@ final:
   url: 'final'
   due: 2023-02-24
   points: 230
-
