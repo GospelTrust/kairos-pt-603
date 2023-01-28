@@ -38,16 +38,22 @@
 
   <samp>Stillness, Vision, Spontaneity, Journaling</samp>
 
-- You will state the definitions of logos and rhema.
+- You will state the definitions of _logos_ and _rhema_.
 
-  <samp><b>logos</b> (the content of the message). <b>rhema</b> (how the message was received).</samp>
+  <dl>
+    <dt>logos</dt>
+    <dd>the content of the message</dd>
+    <dt>rhema</dt>
+    <dd>how the message was received</dd>
+  </dl>
 
 - 5 Safeguards in [Dialogue with God]
 
-  1. <samp>Knowledge of the Scriptures.</samp>
-  2. <samp>Relationship with the body of Christ.</samp>
-  3. <samp>A spirit of humility.</samp>
-  4. <samp>Testing the contents of the words received.</samp>
+  1. <samp>The Scriptures</samp>
+  2. <samp>The Body of Christ</samp>
+  3. <samp>Humility</samp>
+  4. <samp>Testing</samp>
+  5. <samp>The Desire of God's Heart</samp>
 
 - Memorize <samp>Hearing God's voice is as simple as quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing!</samp>
 
