@@ -13,6 +13,8 @@ lesson-01:
   header: 'Lesson 1'
   sequence: 1
   url: 'lesson-01'
+  due: 2023-01-17
+  points: 9/10
   videos:
     - https://drive.google.com/file/d/1kg-GxaXNhUDKbp1IKPmqq2Rdftl1VWat/preview
 
@@ -23,6 +25,8 @@ lesson-02:
   header: 'Lesson 2'
   sequence: 2
   url: 'lesson-02'
+  due: 2023-01-17
+  points: 10/10
   videos:
     - https://drive.google.com/file/d/1v7fH5ceG8BfyekJ7ogoOOqTri4MLwbIU/preview
 
@@ -33,6 +37,8 @@ lesson-03:
   header: 'Lesson 3'
   sequence: 3
   url: 'lesson-03'
+  due: 2023-01-24
+  points: 10/10
   videos:
     - https://drive.google.com/file/d/1RsnghJdgEBvmIPD_QDrve5LWwZ_kHIn2/preview
 
@@ -43,6 +49,8 @@ lesson-04:
   header: 'Lesson 4'
   sequence: 4
   url: 'lesson-04'
+  due: 2023-01-24
+  points: 10/10
   videos:
     - https://drive.google.com/file/d/1BamPUWfB_1rFH-rlQeFwnB7aTAU5b2NJ/preview
 
@@ -53,6 +61,8 @@ lesson-05:
   header: 'Lesson 5'
   sequence: 5
   url: 'lesson-05'
+  due: 2023-01-31
+  points: 10/10
   videos:
     - https://drive.google.com/file/d/1PWaT4v1FgCamoy4dVGonlcHgeBMAObwM/preview
 
@@ -63,6 +73,8 @@ lesson-06:
   header: 'Lesson 6'
   sequence: 6
   url: 'lesson-06'
+  due: 2023-01-31
+  points: 10/10
   videos:
     - https://drive.google.com/file/d/1sRcVZIOw-6s8GNC67SCYEVSBMApLzVOq/preview
 
@@ -73,6 +85,8 @@ lesson-07:
   header: 'Lesson 7'
   sequence: 7
   url: 'lesson-07'
+  due: 2023-02-07
+  points: 10
   videos:
     - https://drive.google.com/file/d/1VYDIomduh9VK-XjWPHoDuhFylUrAjK0b/preview
 
@@ -83,6 +97,7 @@ lesson-08:
   header: 'Lesson 8'
   sequence: 8
   url: 'lesson-08'
+  due: 2023-02-07
   videos:
     - https://drive.google.com/file/d/1sS2LCSzwDM2YRHp0GPgt0lWR7qq75hj_/preview
 
@@ -93,6 +108,8 @@ lesson-09:
   header: 'Lesson 9'
   sequence: 9
   url: 'lesson-09'
+  due: 2023-02-14
+  points: 10
   videos:
     - https://drive.google.com/file/d/1J7vxMbTZpN5s4m4waqc6Q3eOwcEmf7n2/preview
 
@@ -103,6 +120,8 @@ lesson-10:
   header: 'Lesson 10'
   sequence: 10
   url: 'lesson-10'
+  due: 2023-02-14
+  points: 10
   videos:
     - https://drive.google.com/file/d/1mSnxNYZ2gd5SE0lAOgu54VtRBVutuIsT/preview
 
@@ -113,6 +132,8 @@ lesson-11:
   header: 'Lesson 11'
   sequence: 11
   url: 'lesson-11'
+  due: 2023-02-21
+  points: 10
   videos:
     - https://drive.google.com/file/d/17jlN2M3WTWN5X7kn1R0mRiSYWEMKXE9Q/preview
 
@@ -123,6 +144,8 @@ lesson-12:
   header: 'Lesson 12'
   sequence: 12
   url: 'lesson-12'
+  due: 2023-02-21
+  points: 10
 
 journal-01:
   segment: 'week-02'
@@ -132,7 +155,7 @@ journal-01:
   type: 'Assignment'
   url: 'journal-01'
   due: 2023-01-22
-  points: 20
+  points: 20/20
   images:
     - src: https://cdn.midjourney.com/46149cbf-1599-442a-90aa-7c55e7bf5eea/grid_0.png
       desc: Mountain of Delight
@@ -145,7 +168,7 @@ journal-02:
   type: 'Assignment'
   url: 'journal-02'
   due: 2023-01-29
-  points: 20
+  points: 20/20
   images:
     - src: https://cdn.midjourney.com/f29cdfb1-c836-4c08-b5fc-3e08d36230fc/grid_0.png
       desc: Center of God's Design
