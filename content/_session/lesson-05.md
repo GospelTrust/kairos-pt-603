@@ -62,6 +62,7 @@
       > "If any man is thirsty, let him come to Me and drink. He who believes in Me, and as the Scripture said, 'From his innermost being shall flow rivers of living water.'" But this He spoke of the Spirit, whom those who believed in Him were to receive...
 
    2. Journal about this verse. Ask the Lord what He wants to say to you specifically about coming to Him.
+
       <samp>The Lord asks those thirsty to quench their thirst not by drinking but by receiving the wellspring of life within them through the indwelling of the Holy Spirit.</samp>
 
 2. Idols of the heart
