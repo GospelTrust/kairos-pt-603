@@ -199,6 +199,10 @@ The format of this course is highly accelerated. We will be covering two lessons
 1. Here is what God has revealed through the reading, videos, and exercises…
 2. Here is what I have a question on...
 
+----
+
+[A Critique](https://www.puritanboard.com/threads/mark-virckler.48384/)
+
 <hr class='logo' />
 
 [Final]: {% link _session/final.md %}
@@ -212,4 +216,3 @@ The format of this course is highly accelerated. We will be covering two lessons
 [Talking with Jesus]: https://www.cwgministries.org/store/talking-jesus-ebook
 [Am I Being Deceived?]: https://www.cwgministries.org/store/am-i-being-deceived-ebook
 [Sea of Galilee Prayer Encounter]: https://go.cwgministries.org/galilee-cwg
-
