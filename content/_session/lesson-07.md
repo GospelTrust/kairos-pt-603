@@ -21,7 +21,7 @@
 ## Related objectives
 
 - You will quote John 8:38a.
-  > <cite>I speak the things which I have seen with My Father.</cite>
+  > <samp>I speak the things which I have seen with My Father.</samp>
 
 - You will state the first three keys to hearing God’s voice.
 - You will state and defend your personal theology concerning the place of dreams and visions in our relationship and communication with the Lord.
@@ -162,8 +162,7 @@
   > God has commanded us to imagine His Word ("meditate" - Josh 1:8; 1 Chron 29:18)
 
   - Joshua 1:8 <samp>הָגָה means to <em>meditate, muse<em>.</samp>
-  - 1 Chron 29:18 <samp>מַחֲשָׁבָה means <em>thoughts of the mind<em></samp>
-  - <samp>"Imagine" is nowhere to be found in these references</samp>
+  - 1 Chron 29:18 <samp>לְיֵ֥צֶר means <em>in the imagination of the thoughts<em> This word is used once in the bible.</samp>
 
 - 4KHGV, p.205
 
