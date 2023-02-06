@@ -15,7 +15,8 @@
 ## Related objectives
 
 - You will quote II Corinthians 10:5.
-  > We are destroying speculations and every lofty thing raised up against the knowledge of God, and we are taking every thought captive to the obedience of Christ.
+  > <samp>We are destroying speculations and every lofty thing raised up against the knowledge of God,<samp>
+  <samp>and we are taking every thought captive to the obedience of Christ.</samp>
 
 - You will discuss your theology concerning the biblical principle of authority and how it relates to hearing God’s voice.
 - You will have approximately three counselors or advisors with whom you share all questionable journaling and any major decisions.

@@ -20,7 +20,13 @@
 ## Related objectives
 
 - You will quote John 5:19, 30a.
-  > Jesus therefore answered and was saying to them, “Truly, truly I say to you, the Son can do nothing of Himself, unless it is something He sees the Father doing; for whatever the Father does, these things the Son also does in like manner…I can do nothing on My own initiative.”
+  > <samp>Jesus therefore answered and was saying to them,
+  “<samp>Truly, truly I say to you,</samp>
+  <samp>the Son can do nothing of Himself,</samp>
+  <samp>unless it is something He sees the Father doing;</samp>
+  <samp>for whatever the Father does,</samp>
+  <samp>these things the Son also does in like manner</samp>
+  <samp>…I can do nothing on My own initiative.</samp>”
 
 - You will state the four keys to hearing God’s voice.
 - You will define “two-way journaling” as used by the authors.

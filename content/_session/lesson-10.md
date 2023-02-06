@@ -13,7 +13,8 @@
 
 - Biblical Patterns for Approaching God
 - You will quote Hebrews 10:22, and discuss its meaning as a “fine-tuning dial” to hearing God’s voice.
-  > Let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.
+  > <samp>Let us draw near with a sincere heart in full assurance of faith,</samp>
+  <samp>having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.</samp>
 
 - You will list the six pieces of furniture that were found in the tabernacle of Moses, and discuss their use in your approach to God.
 - You will have a regular time of communing with the Lord with the use of journaling at least twice a week.
