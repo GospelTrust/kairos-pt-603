@@ -24,6 +24,7 @@
   > <samp>and Jesus Christ whom Thou hast sent.</samp>
 
 - Isaiah 55:10, 11.
+
   > <samp>For as the rain and the snow come down from heaven,</samp>
     <samp>and do not return there without watering the earth,</samp>
     <samp>and making it bear and sprout,</samp>
@@ -34,6 +35,7 @@
     <samp>and without succeeding in the matter for which I sent it.</samp>
 
 - John 7:37b-39a.
+
   > <samp>“If any man is thirsty,</samp>
   > <samp>let him come to Me and drink.</samp>
   > <samp>He who believes in Me,</samp>
@@ -51,9 +53,11 @@
   <samp>and know that I am God.</samp>
 
 - John 8:38a.
+
   > <samp>I speak the things which I have seen with My Father.</samp>
 
 - I Chronicles 29:18 KJV.
+
   > <samp>O Lord,</samp>
   <samp>the God of Abraham,</samp>
   <samp>Isaac,</samp>
@@ -63,6 +67,7 @@
   <samp>and prepare their heart unto thee.</samp>
 
 - John 5:19, 30a.
+
   > <samp>Jesus therefore answered and was saying to them,</samp>
   “<samp>Truly, truly I say to you,</samp>
   <samp>the Son can do nothing of Himself,</samp>
@@ -72,9 +77,11 @@
   <samp>…I can do nothing on My own initiative.</samp>”
 
 - Hebrews 10:22.
+
   > <samp>Let us draw near with a sincere heart in full assurance of faith,</samp>
   <samp>having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.</samp>
 
 - II Corinthians 10:5.
-  > <samp>We are destroying speculations and every lofty thing raised up against the knowledge of God,<samp>
+
+  > <samp>We are destroying speculations and every lofty thing raised up against the knowledge of God,</samp>
   <samp>and we are taking every thought captive to the obedience of Christ.</samp>
