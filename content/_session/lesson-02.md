@@ -71,7 +71,7 @@
 
 - You will discuss the differences between left- and right-hemisphere brain functions, and how this information relates to your spiritual life. [Brain test without signing up for emails](https://www.cwgministries.org/sites/default/files/files/left_brain_right_brain_test.pdf).
 
-  - Left brain <samp>analytical fuctions<samp>
+  - Left brain <samp>analytical functions<samp>
   - Right brain is more <samp>intuitive and visionary functions</samp>
 
   <samp>Right-brain functions enjoy the beauty of nature to properly intuit the voice of the Holy Spirit</samp>
@@ -87,7 +87,7 @@
 
 &nbsp; | Christianity | New Age
 --- | :--- | :---
-__Intuitive Development__ | Voice of God as intuitive thoughts & impressions. Discerning God's voice to experience life | Intuation as the heart's voice, releases creativity leads to creativity
+__Intuitive Development__ | Voice of God as intuitive thoughts & impressions. Discerning God's voice to experience life | Intuition as the heart's voice, releases creativity leads to creativity
 __Contact with Spirit__ | Holy Spirit and angels sent from God | Any beings in the spirit world
 __Method of Quieting Oneself__ | Worship, fixing on Jesus | Mantras
 __Use of One's Visionary Abilities__ | God grants divine vision become creativity | Visualize goals recognized as internal ability
@@ -145,7 +145,7 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 
   - Against Rationalism
     > Reliance on reason as the basis for establishment of religious ruth;
-      a threory that reason is in itself a source of knowledge superior to and
+      a theory that reason is in itself a source of knowledge superior to and
       independent of sense perception
 
     - Living heart first (_live out of flow_)
@@ -156,8 +156,8 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 
 - World Views
 
-  - Rationalism - space/time/energy/mass boxx
-    - Experience through senses: touch, tase, sight, hearing, and smell
+  - Rationalism - space/time/energy/mass box
+    - Experience through senses: touch, taste, sight, hearing, and smell
     - Travel to the spiritual world, it doesn't exist or unknowable
 
   - Rationalism/Mysticism Combined
@@ -207,7 +207,7 @@ __The Planet Ultimately__ | New Heavens and Earth come through God's direct inte
 
 - Spiritual Intimacy: Desire of God's Heart
 
-  Catch a vision that cummunion is God's deepest desire
+  Catch a vision that communion is God's deepest desire
 
   1. Creation (Gen 3:8)
   2. Nation of Israel (Deu 5:22-31; James 2:23)

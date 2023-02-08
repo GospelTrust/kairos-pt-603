@@ -20,7 +20,7 @@
 ## Related objectives
 
 - You will quote John 5:19, 30a.
-  > <samp>Jesus therefore answered and was saying to them,
+  > <samp>Jesus therefore answered and was saying to them,</samp>
   “<samp>Truly, truly I say to you,</samp>
   <samp>the Son can do nothing of Himself,</samp>
   <samp>unless it is something He sees the Father doing;</samp>

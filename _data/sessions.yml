@@ -254,3 +254,11 @@ final:
   url: 'final'
   due: 2023-02-24
   points: 230
+
+memory:
+  segment: 'week-01'
+  title: 'Memory'
+  icon: key
+  header: 'Scriptures'
+  type: 'Memory'
+  url: 'memory'
