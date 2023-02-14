@@ -29,6 +29,9 @@ acc:
     - name: Syllabus
       url: https://pt603.nissi.app/session/syllabus
       desc: Class syllabus and contact information
+    - name: Verses
+      url: https://pt603.nissi.app/session/memory
+      desc: Verses to memorize for the course
   meta:
     apple_icon: "logo-square-300.png"
     og_image: "logo-square-512.png"
