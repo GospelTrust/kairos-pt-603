@@ -19,6 +19,7 @@ Complete these self-tests successfully, weekly and this will insure
    4. <samp>testing</samp> the contents of the words received.
 
 4. Quote Habakkuk 2:1, 2.
+
    > <samp>I will stand on my guard post and station myself on the rampart; And I will keep watch to see what He will speak to me, and how I may reply when I am reproved. Then the Lord answered me and said, "Record the vision and inscribe it on tablets, that the one who reads it may run.</samp>
 
 5. Simply stated in just four words, the four keys to hearing God’s voice are:
@@ -28,9 +29,10 @@ Complete these self-tests successfully, weekly and this will insure
    - <samp>journaling</samp>
 
 6. Complete the following statement:
+
    > Hearing God’s voice is as simple as: <samp>quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing!</samp>
 
-----
+<hr class='section' />
 
 ## Self-Test Two
 
@@ -62,16 +64,19 @@ Complete these self-tests successfully, weekly and this will insure
    8. logic <samp>left</samp>
 
 4. Quote Proverbs 11:14 NASU.
+
    > <samp>Where there is no guidance the people fall, but in the abundance of counselors there is victory</samp>
 
 5. May be defined as “a belief in direct spirit encounter.”
+
    > <samp>Mysticism</samp> (4KTHGV p.59)
 
 6. Quote Habakkuk 2:1, 2
+
    > <samp>I will stand on my guard post and station myself on the rampart; And I will keep watch to see what He will speak to me, and how I may reply when I am reproved. Then the Lord answered me and said, "Record the vision and inscribe it on tablets, that the one who reads it may run."</samp>
 
 7. In four words, the four keys to hearing God’s voice are:
-   - <samp>sillness</samp>
+   - <samp>stillness</samp>
    - <samp>vision</samp>
    - <samp>spontaneity</samp>
    - <samp>journaling</samp>
@@ -82,6 +87,11 @@ Complete these self-tests successfully, weekly and this will insure
    3. <samp>big decisions &mdash; especially involving a large investment of time or money or a new theology</samp> (4KTHGV p.51)
 
 9. State at least three differences between New Agers/cultists and Christians who enter the Spirit realm. (4KTHGV p.40)
+   1. The voice of God is <samp>intuitive thoughts and impressions coming into one's mind</samp>, whereas the New Age's <samp>intuition comes from one's heart</samp>.
+   2. Christians interact with <samp>the Holy Spirit and angels</samp> as opposed to New Age trying to contact <samp>any being in the spirit world</samp>.
+   3. Quieting oneself by <samp>worshiping and fixating on Jesus</samp> rather than New Age's <samp>repetitious mantras</samp>.
+   4. <samp>Recording spiritual experiences</samp> through hearing God's voice rather than the New Age experience of being <samp>overtaken by automatic writing</samp>.
+   5. The planet will be <samp>redeemed by God's Spirit, angels, and Church</samp> rather than the New Age's focus on <samp>man's efforts and accomplishments</samp>.
 
 10. The center of the relationship between you and your spiritual advisors should be <samp>friendship</samp>, not authority.
 
@@ -89,14 +99,16 @@ Complete these self-tests successfully, weekly and this will insure
 
 12. Hearing God’s voice is as simple as <samp>quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing</samp>.
 
-----
+<hr class='section' />
 
 ## Self-Test Three
 
 1. Quote Proverbs 11:14 NASU.
+
    > <samp>Where there is no guidance the people fall, but in the abundance of counselors there is victory.</samp>
 
 2. Quote John 17:3.
+
    > <samp>And this is eternal life, that they might know Thee, the only true God, and Jesus Christ whom Thou hast sent.</samp>
 
 3. Five aspects of the wholeheartedness that God requires in our approach to Him are:
@@ -109,13 +121,15 @@ Complete these self-tests successfully, weekly and this will insure
 4. Hearing God’s voice is as simple as <samp>quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing</samp>.
 
 5. State the definition of submission.
+
    > <samp>An openness to the Spirit-led counsel and correction of several others, while keeping a sense of personal responsibility for our own discernment of God's voice within us</samp>  (4KTHGV p.44)
 
-----
+<hr class='section' />
 
 ## Self-Test Four
 
 1. Quote Isaiah 55:10, 11
+
    > <samp>For as the rain and snow come down from heaven, and do not return there without watering the earth, and making it bear and sprout, and furnishing seed to the sower and bread to the eater; So shall My word be which goes forth from my mouth; It shall not return to Me empty, without accomplishing what I desire, and without succeeding in the matter for which I sent it.</samp>
 
 2. Key #1 to hearing God’s voice is: “Recognize God’s voice as <samp>spontaneous thoughts</samp> that light upon your mind.”
@@ -137,27 +151,30 @@ Complete these self-tests successfully, weekly and this will insure
    4. <samp>Will of the heart</samp>
    5. <samp>Emotions of the heart</samp>
 
-----
+<hr class='section' />
 
 ## Self-Test Five
 
 1. Write out John 7:37b-39a.
+
    > <samp>"If any man is thirsty, let him come to Me and drink. He who believes in Me, as the Scripture said, 'From his innermost being shall flow rivers of living water.'" But this He spoke of the Spirit, whom those who believed in Him were to receive...</samp>
 
 2. When anything is larger than <samp>Jesus</samp> in the <samp>eyes of your heart</samp>, that thing has become an idol, and it will distort the answer you hear “from the Lord” making your journaling impure. (4KTHGV p.138)
 
 3. Praying in the Spirit means that your prayers are <samp>inspired</samp>, guided, energized and <samp>sustained</samp> by the Holy Spirit. You are tuned to <samp>flow</samp> and allowing the <samp>Holy Spirit</samp> to pray through you (4KTHGV p.140).
 
-4. Key #1 to hearing God’s voice is: “Recognize God’s voice as <samp>spontaneous thoughts that ight upon your mind</samp>.” (4KTHGV p.95)
+4. Key #1 to hearing God’s voice is: “Recognize God’s voice as <samp>spontaneous thoughts that light upon your mind</samp>.” (4KTHGV p.95)
 
-----
+<hr class='section' />
 
 ## Self-Test Six
 
 1. Write out the expanded version of Psalm 46:10.
+
    > <samp>Be still, let go, cease striving, relax, and know that I am God</samp>
 
 2. Key #1 to hearing God’s voice is:
+
    > <samp>Recognizing God's voice as spontaneous thoughts that light upon your mind.</samp> (4KTHGV p.149)
 
 3. Key #2 is <samp>quiet</samp> yourself so you can hear God’s voice. (4KTHGV p.149)
@@ -173,11 +190,12 @@ Complete these self-tests successfully, weekly and this will insure
 
 7. Doing a right-brain activity such as <samp>singing</samp> or listening to <samp>music</samp> can help poise you to hear from God. (4KTHGV p.153)
 
-----
+<hr class='section' />
 
 ## Self-Test Seven
 
 1. Quote John 8:38a.
+
    > <samp>I speak the things which I have seen with My Father.</samp>
 
 2. The first three keys to hearing God’s voice are: (4KTHGV p.167)
@@ -198,11 +216,12 @@ Complete these self-tests successfully, weekly and this will insure
    4. Vision while in a <samp>trance</samp>;
    5. The visionary encounter of <samp>dreams</samp>.
 
-----
+<hr class='section' />
 
 ## Self-Test Eight
 
 1. Quote I Chronicles 29:18 KJV.
+
    > <samp>O Lord, the God of Abraham, Isaac, and of Israel, our fathers, keep this forever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee.</samp>
 
 2. Some specific things you can do to strengthen the eyes of your heart include:
@@ -228,6 +247,7 @@ Complete these self-tests successfully, weekly and this will insure
    12. <samp>Holy Spirit</samp> reflects the character of Christ
 
 4. Quote Habakkuk 2:1, 2.
+
    > <samp>I will stand on my guard post and station myself on the rampart; And I will keep watch to see what He will speak to me, and how I may reply when I am reproved. Then the Lord answered me and said, "Record the vision and inscribe it on tablets, that the one who reads it may run."</samp>
 
 5. The first three keys to hearing God’s voice are: (4KTHGV p.167)
@@ -235,11 +255,12 @@ Complete these self-tests successfully, weekly and this will insure
    2. <samp>Quiet yourself so you can hear God's voice.</samp>
    3. <samp>Look for vision as you pray.</samp>
 
-----
+<hr class='section' />
 
 ## Self-Test Nine
 
 1. Quote John 5:19, 30a.
+
    > <samp>Jesus therefore answered and was saying to them, "Truly, truly I say to you, the Son can do nothing of Himself, unless it is something He sees the Father doing; for whatever the Father does, these things the Son also does in like manner... I can do nothing on My own initiative."</samp>
 
 2. Two-way journaling may be defined as recording your <samp>prayers</samp> and what you sense to be God’s <samp>answers</samp>. (4KTHGV p.213)
@@ -276,11 +297,12 @@ Complete these self-tests successfully, weekly and this will insure
    3. <samp>Look for vision as you pray.</samp>
    4. <samp>Write down the flow of thoughts and pictures that come to you (two-way journaling).</samp>
 
-----
+<hr class='section' />
 
 ## Self-Test Ten
 
 1. Quote Hebrews 10:22.
+
    > <samp>Let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.</samp>
 
 2. As I approach God through the Tabernacle Experience, the <samp>brazen altar</samp> reminds me to ask if I have presented myself as a living sacrifice, denying the desire of my flesh and presenting myself to God as an instrument of righteousness. (DWG p.157)
@@ -301,11 +323,12 @@ Complete these self-tests successfully, weekly and this will insure
 
 9. Hearing God’s voice is as simple as <samp>quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing</samp>.
 
-----
+<hr class='section' />
 
 ## Self-Test 11
 
 1. Quote II Corinthians 10:5.
+
    > <samp>We are destroying speculations and every lofty thing raised up against the knowledge of God, and we are taking every thought captive to the obedience of Christ.</samp>
 
 2. The four keys to hearing God’s voice are:
@@ -315,10 +338,15 @@ Complete these self-tests successfully, weekly and this will insure
    - Key #4 <samp>Write down the flow of thoughts and pictures that come to you (two-way journaling).</samp>
 
 3. Hearing God’s voice is as simple as:
+
    > <samp>quieting yourself down, fixing your eyes on Jesus, tuning to spontaneity, and writing.</samp>
 
 4. Two-way journaling may be defined as: (4KTHGV p.213)
+
    > <samp>recording your prayers and what you sense to be God's answers.</samp>
 
 5. Submission may be defined as
+
    > <samp>An openness to the Spirit-led counsel and correction of several others, while keeping a sense of personal responsibility for our own discernment of God's voice within us.</samp> (4KTHGV p.44)
+
+<hr class='logo' />
