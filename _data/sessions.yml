@@ -235,6 +235,14 @@ paper-02:
   due: 2023-02-24
   points: 150
 
+self-tests:
+  segment: 'week-05'
+  title: 'Self Tests'
+  icon: assignment
+  header: 'Review'
+  type: 'Review'
+  url: 'self-tests'
+
 midterm:
   segment: 'week-03'
   title: 'Midterm'
