@@ -57,6 +57,7 @@
       <samp>According to the author, a question of personal guidance leads in the direction of a decision, whereas prediction of the future seeks to know the future and can influence another person's free will.</samp>
 
    2. Based on this discussion, do you now recognize any times when you strayed into seeking God for forbidden information?
+
       <samp>Before 2000, when I traveled and ministered with a company of prophets, personal predictions for others were the norm. Seeking knowledge of the future is unavoidable because I live in a world of dreams. However, when I pray, I seek His will and guidance.</samp>
 
 4. Give at least six ways by which we can test our journaling to know for sure that it came from God.
@@ -80,7 +81,7 @@
 6. Stages of journaling
    1. In your own words, discuss the three stages of journaling suggested by the author.
 
-      1. <samp>According to the author: The beginner stage is where you are guided through the process. The intermediate state is where you flow in the prophetic and can function in your calling and ministry. The advanced stage is where you're leading others in the matured office of a prophet.</samp>
+      <samp>According to the author: The beginner stage is where you are guided through the process. The intermediate state is where you flow in the prophetic and can function in your calling and ministry. The advanced stage is where you're leading others in the matured office of a prophet.</samp>
 
    2. Hopefully by this point you are operating in the intermediate stage, in the gift of prophecy, able to come to hear from the Lord whenever you quiet yourself, fix your eyes on Jesus, and tune to spontaneity. Do so now, and ask the Lord if He wants you to aspire to the office of prophet. What does He want you to be doing now to prepare yourself for whatever call He has placed upon you?
 
