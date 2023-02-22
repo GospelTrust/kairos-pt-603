@@ -36,6 +36,7 @@
 
    > <samp>Where will you go from my Spirit? Where will you flee from my presence? If you ascend to heaven, I'm there. If you make your bed in hell, I'm also there. If you take the wings of the morning and dwell in the uttermost place of the sea, even there shall my hand lead you, and my right-hand hold you. If you say the darkness has covered you, even the night shall be as light before you.</samp>
 
+3. Continue journaling frequently. Use the suggested questions from Appendix B of 4 Keys to Hearing God’s Voice as starting places.
 
    > <samp>Take the plunge into the river of my delight. In that sea of forgetfulness are my mercy and love. Take no thoughts of tomorrow; I'm here and will be here when you awake.</samp>
 <hr class='logo' />
