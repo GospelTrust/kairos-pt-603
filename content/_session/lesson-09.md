@@ -46,6 +46,12 @@
 
       <samp>The Father has revealed himself through Jesus. The voice of Jesus reverberates through the Holy Spirit and illuminates the hearts of even those who are dead in their trespasses coming to the knowledge of the truth. His strength will be perfected in my weakness as I seek to do His will.</samp>
 
+      Virkler:
+
+      > Jesus had not gone beyond words and pictures and emotions. Instead, He stepped from Himself and His own will to God's words, pictures and emotions &mdash; to living out of His Father's initiatives. (p. 156)
+
+      > The veil is torn, access is available, fellowship with the Holy Spirit is possible. Will you enter in? Will you seek the way? Will you go within the veil and experience God in direct encounter, or will you be satisfied to experience Him secondhand through the Book He has written?
+
 2. Write out and memorize Key #4 as stated on page 213 of 4 Keys to Hearing God’s Voice.
 
    <samp>Write down the flow of thoughts and pictures that come to you (Two-way Journaling)</samp>

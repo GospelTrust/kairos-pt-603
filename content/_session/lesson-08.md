@@ -41,6 +41,10 @@
 
       <samp>David's prayer to God regarding the building of the temple and the worship of Israel. Asking the Lord to help his son, Solomon, keep the commandments, testimonies, and statutes and faithfully build the palace he has made provision for.</samp>
 
+      Virkler:
+
+      > God has commanded us to imagine His Word ("meditate"). I will approach the Bible as God has commanded me to. I will imagine it and pray over it and ponder and meditate upon it! I will not let my Bible times descend into Western rationalism!
+
    3. Journal about this verse, asking the Lord what it means to you and how He wants to apply it in your life.
 
       <samp>David was a type of Christ who prepared for his son Solomon to build the house for the Lord. Jesus prepares for His Church the sufficiency of grace to build the Kingdom. Paul admonished the church that the "Lord Jesus Christ himself, and God, even our Father, which hath loved us, and hath given us everlasting consolation and hope through grace, comfort [our] hearts and establish [us] in every good word and work" (2 Thess 2:16-17).</samp>

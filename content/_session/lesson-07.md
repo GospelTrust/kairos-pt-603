@@ -59,6 +59,10 @@
 
       <samp>Jesus was altogether different than me. His consciousness of the Father is so utterly foreign that it is incomprehensible to my nature. The way of God was utterly foreign to me, and only the grace of God can transcend my disillusionment with the divine.</samp>
 
+      Virkler:
+
+      > Our ability to see in the spirit is a primary sense by which we perceive the spiritual dimension... we must learn to live in the world of the dream and the vision.
+
 2. Write out and memorize Key #3 as stated on page 167 of 4 Keys to Hearing God’s Voice.
 
    <samp>Look for vision as you pray</samp>

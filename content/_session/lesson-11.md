@@ -56,6 +56,10 @@
 
       > <samp>There are things too marvelous to understand and beyond the realm of man. Come and sit at my feet; you will learn things too wonderful to contain in your mortality.</samp>
 
+      Virkler:
+
+      > We must cut off instantly any and all pictures shown on our inner screen from satan's projector. We should take every thought captive to the obedience of Christ. (Dialogue p. 83)
+
 6. The subjects of submission and authority have been explored several times during this course. Discuss your theology concerning the biblical principle of authority and how it relates to hearing God’s voice. Support your position with Scripture.
 
    <samp>All authority has been given to Christ. He has commissioned the apostles to make disciples of all nations and baptize them in the name of the Father, Son, and Holy Spirit (Math 28:18-19). The disciples heard Jesus speak directly to them, charging them with this great commission; in obedience to Christ, the gospel spread worldwide. In Hebrews (1:2), the author reiterated this New Covenant God made with Himself through Jesus. The disciples were eyewitnesses to the Lord's life, death, resurrection, and majesty (1 Pet 5:1; 2 Pet 1:16). The Church Fathers have canonicalized the apostles' writings to preserve the word of the Lord. The Lord has commissioned the Spirit to guide us into all truth concerning the Lord and will bring to remembrance the things the Lord has taught us (John 16:13-15; 14:26). We can hear God's voice through the study and meditation on the scriptures (2Tim 2:15; 1Tim 4:13,15). The study of history and the traditions of the elders also help keep us from wandering into the relativistic truths of this postmodern age and subjective individualism that has become antithetical to the Body of Christ.</samp>
