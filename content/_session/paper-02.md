@@ -2,7 +2,7 @@
 description: Final paper on the book "Am I Being Deceived?" by Mark and Patti Virkler
 ---
 
-Read the entire [book][Am I Being Deceived?] and submit a [paper][Paper 2] of:
+Read the entire [book][Am I Being Deceived?] and submit a paper of:
 
 - 4 pages typed (no larger than 12-point font)
 - Double-spaced (or 2 pages single-spaced) in response to this book.

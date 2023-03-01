@@ -165,8 +165,8 @@
 
   > God has commanded us to imagine His Word ("meditate" - Josh 1:8; 1 Chron 29:18)
 
-  - Joshua 1:8 <samp>הָגָה means to <em>meditate, muse<em>.</samp>
-  - 1 Chron 29:18 <samp>לְיֵ֥צֶר means <em>in the imagination of the thoughts<em> This word is used once in the bible.</samp>
+  - Joshua 1:8 <samp>הָגָה means to <em>meditate, muse</em>.</samp>
+  - 1 Chron 29:18 <samp>לְיֵ֥צֶר means <em>in the imagination of the thoughts</em> This word is used once in the bible.</samp>
 
 - 4KHGV, p.205
 

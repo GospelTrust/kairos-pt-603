@@ -223,6 +223,9 @@ paper-01:
   url: 'paper-01'
   due: 2023-02-24
   points: 150
+  images:
+    - src: https://cdn.midjourney.com/1329eda5-bf92-4c58-9cfb-d3e4c09a1be5/grid_0.png
+      desc: Paradox
 
 paper-02:
   segment: 'week-06'
