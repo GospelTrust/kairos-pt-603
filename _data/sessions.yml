@@ -237,6 +237,8 @@ paper-02:
   url: 'paper-02'
   due: 2023-02-24
   points: 150
+    - src: https://cdn.midjourney.com/ecbd6f15-ae53-4b48-86fd-b2d33bab8361/grid_0.png
+      desc: Reconciliation
 
 self-tests:
   segment: 'week-05'
